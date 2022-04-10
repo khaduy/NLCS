@@ -1,0 +1,54 @@
+/* ++++++++++++++++++++ index_admin ++++++++++++++++++++ */
+#user-info{
+    border: 1px solid black;
+    width: 800px;
+    margin: 0 auto;
+    padding: 25px;
+}
+#user-info table, #user-info th, #user-info td {
+    border: 1px solid black;
+}
+#user-info table{
+    margin: 10px auto 0 auto;
+    text-align: center;
+}
+#user-info h1{
+    text-align: center;
+}
+
+/* ++++++++++++++++++++ create_user ++++++++++++++++++++ */
+.box-content{
+    margin: 0 auto;
+    width: 800px;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 20px;
+}
+#create_user form{
+    width: 280px;
+    margin: 0px 235px;
+}
+#create_user input{
+    margin: 5px 0;
+    padding: 0 5px;
+}
+#create_user td{
+	padding: 10px 5px;
+}
+
+/* ++++++++++++++++++++ edit_user ++++++++++++++++++++ */
+#edit_user{
+    margin: 0 auto;
+    width: 800px;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 20px;
+}
+#edit_user form{
+    width: 200px;
+    margin: 40px auto;
+}
+#edit_user form input{
+    margin: 5px 0;
+    padding: 0 5px;
+}
